@@ -1,0 +1,4 @@
+git clone https://github.com/username/repository.git
+var dice = new Random();
+var roll = dice.Next(1, 7);
+Console.WriteLine("You rolled a " + roll);
